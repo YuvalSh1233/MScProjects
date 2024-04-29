@@ -21,7 +21,7 @@ Created convolutional neural networks for image classification and localization 
 
 <p align="center">
   <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Image Alt Text"><br>
-  <em>Example of image classification and localization</em>
+  <em>Illustration of image classification and localization</em>
 </p>
 
 ### RNN and Image Captioning
