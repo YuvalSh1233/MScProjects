@@ -44,7 +44,7 @@ Employed the CIFAR-10 dataset and utilized Principal Component Analysis (PCA), J
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
 ### Speaker-Noise Separation with Wav U-Net
-Performed transfer learning techniques using pre-trained `Wav U-Net` models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
+Performed transfer learning techniques using pre-trained `Wav U-Net` model for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
 
 <p align="center">
   <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/2.png?raw=true" alt="Image Alt Text"><br>
