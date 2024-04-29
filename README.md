@@ -46,7 +46,6 @@ Conducted a comprehensive comparison of dimensionality reduction algorithms on t
 ### Speaker-Noise Separation with Wav U-Net
 Investigated transfer learning techniques using pre-trained `Wav U-Net` models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
 
-![Alt text](https://github.com/YuvalSh1233/MScProjects/blob/main/images/2.png?raw=true)
 <p align="center">
   <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/3.png?raw=true" alt="Image Alt Text"><br>
   <em>Illustration of Musical Instrument Separation</em>
