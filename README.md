@@ -34,4 +34,4 @@ Conducted a comprehensive comparison of dimensionality reduction algorithms on t
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
 ### Speaker-Noise Separation with Wav U-Net
-Investigated transfer learning techniques using pre-trained Wav U-Net models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
+'Investigated' transfer learning techniques using pre-trained Wav U-Net models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
