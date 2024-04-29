@@ -22,7 +22,7 @@ Developed convolutional neural networks for image classification and localizatio
 ### RNN and Image Captioning
 Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated `ResNet152` for feature extraction to generate descriptive image captions.
 
-<img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Alt text" width="200" height="150">
+<img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Alt text" width="1000" height="150">
 
 ## Data Streaming Algorithms and Online Learning <a name="data-streaming-algorithms-and-online-learning"></a>
 
