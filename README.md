@@ -33,7 +33,11 @@ Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated 
 ### Comparative Analysis of Dimension Reduction Algorithms (Work in Progress)
 Conducted a comprehensive comparison of dimensionality reduction algorithms on the `CIFAR-10` dataset, focusing on enhancing accuracy and execution efficiency. The algorithms include PCA, Johnson-Lindenstrauss, and Autoencoders.
 
+![Alt text](https://github.com/YuvalSh1233/MScProjects/blob/main/images/3.png?raw=true)
+
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
 ### Speaker-Noise Separation with Wav U-Net
 Investigated transfer learning techniques using pre-trained `Wav U-Net` models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
+
+![Alt text](https://github.com/YuvalSh1233/MScProjects/blob/main/images/2.png?raw=true)
