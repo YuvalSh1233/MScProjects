@@ -1,6 +1,6 @@
 ## Master's Degree Projects Repository
 
-In the following repository, MScProjects, I present my academic endeavors from my master's studies.
+In the following repository, I present my academic endeavors from my master's studies.
 
 ### Projects Overview:
 1. **Introduction to Deep Learning:**
