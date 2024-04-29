@@ -39,7 +39,7 @@ Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated 
 </p>
 
 ### Comparative Analysis of Dimension Reduction Algorithms (Work in Progress)
-Employed the CIFAR-10 dataset and utilized Principal Component Analysis (PCA), Johnson-Lindenstrauss Transformation, and Autoencoder techniques to reduce dimensionality. Our aim was to classify data within the latent space and subsequently compare the achieved results in terms of accuracy and execution time against the conventional ResNet18 pipeline.
+Employed the CIFAR-10 dataset and utilized Principal Component Analysis (PCA), Johnson-Lindenstrauss methods, and Autoencoder techniques to reduce dimensionality. Our aim was to classify data within the latent space and subsequently compare the achieved results in terms of accuracy and execution time against the conventional ResNet18 pipeline.
 
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
