@@ -19,13 +19,13 @@ Constructed a three-layer multi-class neural network, including a bespoke implem
 ### CNN for Classification and Localization
 Developed convolutional neural networks for image classification and localization tasks.
 
-### RNN and Image Captioning
-Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated `ResNet152` for feature extraction to generate descriptive image captions.
-
 <p align="center">
   <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Image Alt Text"><br>
-  <em>Example of image localization</em>
+  <em>Example of image classification and localization</em>
 </p>
+
+### RNN and Image Captioning
+Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated `ResNet152` for feature extraction to generate descriptive image captions.
 
 ## Data Streaming Algorithms and Online Learning <a name="data-streaming-algorithms-and-online-learning"></a>
 
@@ -33,10 +33,13 @@ Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated 
 - **Flajolet-Martin Algorithm:** Implemented and analyzed the Flajolet-Martin algorithm for estimating the number of distinct elements in a data stream via a single pass.
 - **Count-min Sketch:** Developed and evaluated the Count-min sketch probabilistic data structure, serving as a frequency table of events in a stream of data.
 
+<p align="center">
+  <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/3.png?raw=true" alt="Image Alt Text"><br>
+  <em>Running example of Count-min-sketch</em>
+</p>
+
 ### Comparative Analysis of Dimension Reduction Algorithms (Work in Progress)
 Conducted a comprehensive comparison of dimensionality reduction algorithms on the `CIFAR-10` dataset, focusing on enhancing accuracy and execution efficiency. The algorithms include PCA, Johnson-Lindenstrauss, and Autoencoders.
-
-![Alt text](https://github.com/YuvalSh1233/MScProjects/blob/main/images/3.png?raw=true)
 
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
@@ -44,3 +47,7 @@ Conducted a comprehensive comparison of dimensionality reduction algorithms on t
 Investigated transfer learning techniques using pre-trained `Wav U-Net` models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
 
 ![Alt text](https://github.com/YuvalSh1233/MScProjects/blob/main/images/2.png?raw=true)
+<p align="center">
+  <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/3.png?raw=true" alt="Image Alt Text"><br>
+  <em>Illustration of Musical Instrument Separation</em>
+</p>
