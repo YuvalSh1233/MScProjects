@@ -5,16 +5,16 @@ This repository serves as the culmination of my academic journey during my maste
 ## Introduction to Deep Learning:
 
 	1. Linear Image Classifier:
-		- Engineered loss functions, computed gradients, and implemented gradient descent algorithms. Evaluated the performance of linear perceptrons and logistic regression models.
+	- Engineered loss functions, computed gradients, and implemented gradient descent algorithms. Evaluated the performance of linear perceptrons and logistic regression models.
   
 	2. Neural Networks:
-		- Constructed a three-layer multi-class neural network, including a bespoke implementation using NumPy for both forward pass and backpropagation.
+	- Constructed a three-layer multi-class neural network, including a bespoke implementation using NumPy for both forward pass and backpropagation.
   
 	3. CNN for Classification and Localization:
-		- Developed convolutional neural networks for image classification and localization tasks.
+	- Developed convolutional neural networks for image classification and localization tasks.
   
 	4. RNN and Image Captioning:
-		- Implemented Recurrent Neural Networks (RNNs) utilizing NumPy and integrated ResNet152 for feature extraction to generate descriptive image captions.
+	- Implemented Recurrent Neural Networks (RNNs) utilizing NumPy and integrated ResNet152 for feature extraction to generate descriptive image captions.
 
 ## 2. Data Streaming Algorithms and Online Learning:
 
