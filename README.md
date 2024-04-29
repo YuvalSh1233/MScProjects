@@ -1,20 +1,22 @@
-## Master's Degree Projects Repository
+## Master's Degree Project Repository
 
-In the following repository, I present my academic endeavors from my master's studies.
+The following repository showcasing the culmination of my academic journey during my master's studies.
 
-### Projects Overview:
+### Project Overview:
 1. **Introduction to Deep Learning:**
-   - **Linear Image Classifier:** Developed loss functions, computed gradients, and implemented gradient descent. Trained and assessed linear perceptrons and logistic regression models.
-   - **Neural Networks:** Engineered a three-layer multi-class neural network, including a self-implementation using NumPy for forward pass and backpropagation.
-   - **CNN for Classification and Localization:** (Work in Progress)
-   - **RNN and Image Captioning:** Implemented Recurrent Neural Networks (RNNs) using NumPy, followed by leveraging ResNet152 for feature extraction. These features were employed to feed the RNN model for generating image captions.
+   - Linear Image Classifier: Engineered loss functions, computed gradients, and implemented gradient descent algorithms. Evaluated the performance of linear perceptrons and logistic regression models.
+   - Neural Networks: Constructed a three-layer multi-class neural network, including a bespoke implementation using NumPy for both forward pass and backpropagation.
+   - CNN for Classification and Localization: 
+   - RNN and Image Captioning: Implemented Recurrent Neural Networks (RNNs) utilizing NumPy and integrated ResNet152 for feature extraction. These features were then utilized to enrich the RNN model for generating descriptive image captions.
    
-2. Data Streaming Algorithms and Online Learning:
-	holding a sketch of memory in real time flow of data for making estimation about the entire data.
-	a. Flajolet-Martin and Count-min-sketch analysis:
-	   a1. Implememnting and analysis Flajolet-Martin algorithm for estimating number of distinct elements in a stream using a single pass
-	   a2. Implememnting and analysis of count min sketch for probablistic data structure serves as a frequency table of events in a stream of data.
+2. **Data Streaming Algorithms and Online Learning**:
+	Exploring real-time data processing techniques for continual learning.
+	- Flajolet-Martin and Count-min-sketch Analysis:
+	   - *Flajolet-Martin Algorithm:* Implemented and analyzed the Flajolet-Martin algorithm for estimating the number of distinct elements in a data stream via a single pass.
+	   - *Count-min Sketch:* Developed and evaluated the Count-min sketch probabilistic data structure, serving as a frequency table of events in a stream of data.
 	   
-	b. 
-
-
+	- Comparative Analysis of Dimension Reduction Algorithms: (Work in Progress)
+	   - *PCA, Johnson-Lindenstrauss, and Autoencoders:* Conducted a comprehensive comparison of dimensionality reduction algorithms on the CIFAR-10 dataset, focusing on enhancing accuracy and execution efficiency.
+	   
+3. Signal Processing for Artificial Intelligence in Audio Applications:
+	Exploration of speaker-noise separation through transfer learning with pre-trained Wav U-Net models tailored for musical instrument separation.
