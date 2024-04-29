@@ -14,13 +14,13 @@ This repository is a comprehensive collection of projects completed during my ma
 Engineered loss functions, computed gradients, and implemented gradient descent algorithms. Evaluated the performance of linear perceptrons and logistic regression models.
 
 ### Neural Networks
-Constructed a three-layer multi-class neural network, including a bespoke implementation using NumPy for both forward pass and backpropagation.
+Constructed a three-layer multi-class neural network, including a bespoke implementation using `NumPy` for both forward pass and backpropagation.
 
 ### CNN for Classification and Localization
 Developed convolutional neural networks for image classification and localization tasks.
 
 ### RNN and Image Captioning
-Implemented Recurrent Neural Networks (RNNs) utilizing NumPy and integrated ResNet152 for feature extraction to generate descriptive image captions.
+Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated `ResNet152` for feature extraction to generate descriptive image captions.
 
 ## Data Streaming Algorithms and Online Learning <a name="data-streaming-algorithms-and-online-learning"></a>
 
@@ -29,9 +29,9 @@ Implemented Recurrent Neural Networks (RNNs) utilizing NumPy and integrated ResN
 - **Count-min Sketch:** Developed and evaluated the Count-min sketch probabilistic data structure, serving as a frequency table of events in a stream of data.
 
 ### Comparative Analysis of Dimension Reduction Algorithms (Work in Progress)
-Conducted a comprehensive comparison of dimensionality reduction algorithms on the CIFAR-10 dataset, focusing on enhancing accuracy and execution efficiency. The algorithms include PCA, Johnson-Lindenstrauss, and Autoencoders.
+Conducted a comprehensive comparison of dimensionality reduction algorithms on the `CIFAR-10` dataset, focusing on enhancing accuracy and execution efficiency. The algorithms include PCA, Johnson-Lindenstrauss, and Autoencoders.
 
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
 ### Speaker-Noise Separation with Wav U-Net
-'Investigated' transfer learning techniques using pre-trained Wav U-Net models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
+Investigated transfer learning techniques using pre-trained `Wav U-Net` models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
