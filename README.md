@@ -11,13 +11,13 @@ This repository is a comprehensive collection of projects completed during my ma
 ## Introduction to Deep Learning <a name="introduction-to-deep-learning"></a>
 
 ### Linear Image Classifier
-Engineered loss functions, computed gradients, and implemented gradient descent algorithms. Evaluated the performance of linear perceptrons and logistic regression models.
+Loss functions and gradient descent implemented from scratch with `NumPy`. Evaluated the performance of linear perceptrons and logistic regression models.
 
 ### Neural Networks
-Constructed a three-layer multi-class neural network, including a bespoke implementation using `NumPy` for both forward pass and backpropagation.
+Constructed a three-layer multi-class neural network using `NumPy` for both forward pass and backpropagation.
 
 ### CNN for Classification and Localization
-Developed convolutional neural networks for image classification and localization tasks.
+Created convolutional neural networks for image classification and localization tasks.
 
 <p align="center">
   <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Image Alt Text"><br>
