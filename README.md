@@ -14,7 +14,7 @@ This repository is a comprehensive collection of projects completed during my ma
 Loss functions and gradient descent implemented from scratch with `NumPy`. Evaluated the performance of linear perceptrons and logistic regression models.
 
 ### Neural Networks
-Constructed a three-layer multi-class neural network using `NumPy` for both forward pass and backpropagation.
+Implemented a three-layer multi-class neural network using `NumPy` for both forward pass and backpropagation.
 
 ### CNN for Classification and Localization
 Created convolutional neural networks for image classification and localization tasks.
