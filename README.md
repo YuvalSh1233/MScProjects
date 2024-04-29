@@ -24,12 +24,8 @@ Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated 
 
 <p align="center">
   <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Image Alt Text"><br>
-  <em>Caption or description goes here</em>
+  <em>Example of image localization</em>
 </p>
-
-
-![Alt text](https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true)
-*Caption or description goes here*
 
 ## Data Streaming Algorithms and Online Learning <a name="data-streaming-algorithms-and-online-learning"></a>
 
