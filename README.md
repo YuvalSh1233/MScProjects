@@ -11,13 +11,18 @@ This repository is a comprehensive collection of projects completed during my ma
 ## Introduction to Deep Learning <a name="introduction-to-deep-learning"></a>
 
 ### Linear Image Classifier
-Engineered loss functions, computed gradients, and implemented gradient descent algorithms. Evaluated the performance of linear perceptrons and logistic regression models.
+Loss functions and gradient descent implemented from scratch with `NumPy`. Evaluated the performance of linear perceptrons and logistic regression models.
 
 ### Neural Networks
-Constructed a three-layer multi-class neural network, including a bespoke implementation using `NumPy` for both forward pass and backpropagation.
+Implemented a three-layer multi-class neural network using `NumPy` for both forward pass and backpropagation.
 
 ### CNN for Classification and Localization
-Developed convolutional neural networks for image classification and localization tasks.
+Created convolutional neural networks for image classification and localization tasks.
+
+<p align="center">
+  <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/1.jpg?raw=true" alt="Image Alt Text"><br>
+  <em>Illustration of image classification and localization</em>
+</p>
 
 ### RNN and Image Captioning
 Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated `ResNet152` for feature extraction to generate descriptive image captions.
@@ -28,10 +33,20 @@ Implemented Recurrent Neural Networks (`RNNs`) utilizing `NumPy` and integrated 
 - **Flajolet-Martin Algorithm:** Implemented and analyzed the Flajolet-Martin algorithm for estimating the number of distinct elements in a data stream via a single pass.
 - **Count-min Sketch:** Developed and evaluated the Count-min sketch probabilistic data structure, serving as a frequency table of events in a stream of data.
 
+<p align="center">
+  <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/3.png?raw=true" alt="Image Alt Text"><br>
+  <em>Running example of Count-min-sketch</em>
+</p>
+
 ### Comparative Analysis of Dimension Reduction Algorithms (Work in Progress)
-Conducted a comprehensive comparison of dimensionality reduction algorithms on the `CIFAR-10` dataset, focusing on enhancing accuracy and execution efficiency. The algorithms include PCA, Johnson-Lindenstrauss, and Autoencoders.
+Employed the CIFAR-10 dataset and utilized Principal Component Analysis (PCA), Johnson-Lindenstrauss methods, and Autoencoder techniques to reduce dimensionality. Our aim was to classify data within the latent space and subsequently compare the achieved results in terms of accuracy and execution time against the conventional ResNet18 pipeline.
 
 ## Signal Processing for Artificial Intelligence in Audio Applications <a name="signal-processing-for-artificial-intelligence-in-audio-applications"></a>
 
 ### Speaker-Noise Separation with Wav U-Net
-Investigated transfer learning techniques using pre-trained `Wav U-Net` models for separating speakers from noise in audio recordings, with a specific focus on musical instrument separation.
+Performed transfer learning on a pre-trained `Wav U-Net` model, originally trained for musical instrument separation, to separate speakers from noise in audio recordings.
+
+<p align="center">
+  <img src="https://github.com/YuvalSh1233/MScProjects/blob/main/images/2.png?raw=true" alt="Image Alt Text"><br>
+  <em>Illustration of Musical Instrument Separation</em>
+</p>
